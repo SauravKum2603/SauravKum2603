@@ -43,20 +43,6 @@ Actively looking for AI Engineer / Agentic AI / GenAI Engineer roles. Open to re
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
----
-
-### Featured Projects
-
-**🗓️ [Smart Personal Assistant](https://github.com/SauravKum2603/Smart-Personal-Assistant)** — `n8n · Gemini · Telegram · Google Workspace APIs`
-Autonomous assistant with tool calling via Telegram, managing emails, calendar scheduling, and info retrieval. Eliminated 2+ hrs of daily manual tasks; integrated Gemini with Gmail/Calendar APIs via n8n with persistent multi-turn memory across 5+ automated workflows, cutting task effort by 70%.
-
-**🧠 [Customer Support Agent with RAG](https://github.com/SauravKum2603/Customer-Support-Agent-with-RAG)** — `n8n · Gemini · Pinecone · Google Sheets`
-Multi-agent RAG pipeline using Pinecone vector DB and OpenAI embeddings — 40% lower hallucination rate vs. prompt-only baseline. Automated order processing, inventory updates, and policy queries via n8n, resolving 85%+ of queries without human escalation across 10+ categories.
-
-**🎙️ [Smart Real-Time Voice Agent](https://github.com/SauravKum2603/Smart-Real-Time-Voice-Agent)** — `VAPI · ElevenLabs · MCP · Zapier · LLMs`
-Autonomous voice agent with sub-2s response latency via VAPI + ElevenLabs TTS. Implemented MCP tool calling to connect 5+ external services for autonomous action execution; RAG over knowledge-base files reduced out-of-scope responses by 35%.
-
----
 
 ### Certifications
 
