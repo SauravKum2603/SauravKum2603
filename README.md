@@ -1,20 +1,15 @@
-<div align="center">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2EA8E5&width=600&lines=Hi%2C+I'm+Saurav+%F0%9F%91%8B;AI+Engineer+%7C+Agentic+AI+%26+RAG;Building+real-world+AI+Agents)](https://git.io/typing-svg)
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2EA8E5&center=true&vCenter=true&width=600&lines=Building+real-world+AI+Agents+%F0%9F%A4%96;Agentic+AI+%7C+RAG+Pipelines+%7C+Automation;Open+to+AI+Engineer+Roles)
 
-</div>
-
-AI Engineer · Agentic AI & RAG Pipelines · Intelligent Automation · B.Tech CS, KIIT University '26
+**AI Engineer · Agentic AI & RAG Pipelines · Intelligent Automation · Final-year CS student**
 
 I build end-to-end AI systems — from RAG pipelines to voice agents to multi-step automation workflows. Built 3 production-grade AI applications using OpenAI, Gemini, Pinecone, and n8n — automating 50+ daily workflows and reducing manual effort by 60%. Experienced in multi-agent architectures, vector embeddings, and voice AI deployment.
 
 Actively looking for AI Engineer / Agentic AI / GenAI Engineer roles. Open to relocation. Available immediately.
 
-📫 saurav.kum2603@gmail.com · [LinkedIn](https://www.linkedin.com/in/sauravkumar-)
+---
 
-![Wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer)
-
-### What I work with
+## What I work with
 
 **AI & LLMs**
 
@@ -38,33 +33,87 @@ Actively looking for AI Engineer / Agentic AI / GenAI Engineer roles. Open to re
 **Tools & Infra**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
+---
 
-### Certifications
+## Projects
 
+### 🗓️ [Smart Personal Assistant](https://github.com/SauravKum2603/Smart-Personal-Assistant)
+Autonomous AI assistant with tool calling via Telegram, managing emails, calendar scheduling, and information retrieval — eliminating 2+ hours of daily manual tasks. Integrated Gemini LLM with Gmail and Google Calendar APIs via n8n, enabling multi-turn conversations with persistent memory.
+
+| Metric | Value |
+|--------|-------|
+| Stack | n8n · Gemini · Telegram · Google Workspace APIs |
+| Workflows deployed | 5+ |
+| Manual effort reduction | 70% |
+| Daily time saved | 2+ hours |
+
+`n8n` `Gemini` `Telegram` `Google APIs` `Agentic AI`
+
+### 🧠 [Customer Support Agent with RAG](https://github.com/SauravKum2603/Customer-Support-Agent-with-RAG)
+Multi-agent RAG pipeline using Pinecone vector database and OpenAI embeddings. Automated order processing, inventory updates, and policy query resolution via n8n workflows.
+
+| Metric | Value |
+|--------|-------|
+| Hallucination reduction | 40% vs. prompt-only baseline |
+| Query resolution rate | 85%+ without escalation |
+| Query categories handled | 10+ |
+| Vector DB | Pinecone |
+
+`n8n` `Gemini` `Pinecone` `Google Sheets` `RAG`
+
+### 🎙️ [Smart Real-Time Voice Agent](https://github.com/SauravKum2603/Smart-Real-Time-Voice-Agent)
+Autonomous voice agent using VAPI and ElevenLabs TTS with sub-2s response latency. Implemented MCP tool calling to connect 5+ external services for autonomous action execution, with RAG over knowledge-base files for accuracy.
+
+| Metric | Value |
+|--------|-------|
+| Response latency | <2s |
+| External services connected | 5+ |
+| Out-of-scope response reduction | 35% vs. vanilla LLM |
+| Protocol | MCP (Model Context Protocol) |
+
+`VAPI` `ElevenLabs` `MCP` `Zapier` `Voice AI`
+
+---
+
+## Certifications
 - be10x — AI Tools & ChatGPT Workshop
-- be10x — Certified AI Foundations & Tools Specialist
+- be10x — Certified AI Foundations & Tools Specialist (AI Career Accelerator Program)
 - be10x — Certified AI Product Development Professional
-- Google Cloud — Generative AI Fundamentals
+- Google Cloud — Generative AI Fundamentals (Intro to GenAI, LLMs, & Responsible AI)
 - DeepLearning.AI & OpenAI — ChatGPT Prompt Engineering for Developers
 
 ---
 
-### Education
-
+## Education
 **B.Tech, Computer Science & Systems Engineering** — KIIT University, Bhubaneswar (2022–2026) · CGPA 7.92
 
 ---
 
-### GitHub Stats
+## Achievements
+🏆 Special Mention, Model United Nations (MUN) — recognised for leadership, structured argumentation, and cross-cultural communication across a 200+ delegate conference.
 
-<div align="center">
+---
 
-![Saurav's GitHub stats](https://github-readme-stats.vercel.app/api?username=SauravKum2603&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SauravKum2603&layout=compact&theme=tokyonight&hide_border=true)
+## Currently working on
+Preparing for an AI Agents & Automation hackathon in Bangalore — exploring high-impact builds like a voice negotiation agent and a self-healing workflow agent. Also building out a Customer Feedback Intelligence Agent in n8n as a PM-facing "listening layer" for product decisions.
 
-</div>
+---
+
+## Let's connect
+Available for AI Engineer, Agentic AI, AI Automation, and GenAI Engineer roles. Open to relocation, available immediately.
+
+saurav.kum2603@gmail.com · [LinkedIn](https://www.linkedin.com/in/sauravkumar-)
+
+## Contribution snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SauravKum2603/SauravKum2603/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SauravKum2603/SauravKum2603/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/SauravKum2603/SauravKum2603/output/github-snake.svg" />
+</picture>
