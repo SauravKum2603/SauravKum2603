@@ -1,7 +1,7 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2EA8E5&width=600&lines=Hi%2C+I'm+Saurav+%F0%9F%91%8B;AI+Engineer+%7C+Agentic+AI+%26+RAG;Building+real-world+AI+Agents)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2EA8E5&width=600&lines=Hi%2C+I'm+SauravKumar;AI+Engineer+%7C+Agentic+AI+%26+RAG;Building+real-world+AI+Agents)](https://git.io/typing-svg)
 
 
-**AI Engineer · Agentic AI & RAG Pipelines · Intelligent Automation · Final-year CS student**
+**AI Engineer · Agentic AI & RAG Pipelines · Intelligent Automation · B.Tech CS Graduate, KIIT University**
 
 I build end-to-end AI systems — from RAG pipelines to voice agents to multi-step automation workflows. Built 3 production-grade AI applications using OpenAI, Gemini, Pinecone, and n8n — automating 50+ daily workflows and reducing manual effort by 60%. Experienced in multi-agent architectures, vector embeddings, and voice AI deployment.
 
