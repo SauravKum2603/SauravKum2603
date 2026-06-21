@@ -5,8 +5,6 @@
 
 I build end-to-end AI systems — from RAG pipelines to voice agents to multi-step automation workflows. Built 3 production-grade AI applications using OpenAI, Gemini, Pinecone, and n8n — automating 50+ daily workflows and reducing manual effort by 60%. Experienced in multi-agent architectures, vector embeddings, and voice AI deployment.
 
-Actively looking for AI Engineer / Agentic AI / GenAI Engineer roles. Open to relocation. Available immediately.
-
 ---
 
 ## What I work with
@@ -79,29 +77,11 @@ Autonomous voice agent using VAPI and ElevenLabs TTS with sub-2s response latenc
 
 `VAPI` `ElevenLabs` `MCP` `Zapier` `Voice AI`
 
----
-
-## Certifications
-- be10x — AI Tools & ChatGPT Workshop
-- be10x — Certified AI Foundations & Tools Specialist (AI Career Accelerator Program)
-- be10x — Certified AI Product Development Professional
-- Google Cloud — Generative AI Fundamentals (Intro to GenAI, LLMs, & Responsible AI)
-- DeepLearning.AI & OpenAI — ChatGPT Prompt Engineering for Developers
-
----
-
 ## Education
-**B.Tech, Computer Science & Systems Engineering** — KIIT University, Bhubaneswar (2022–2026) · CGPA 7.92
-
----
-
-## Achievements
-🏆 Special Mention, Model United Nations (MUN) — recognised for leadership, structured argumentation, and cross-cultural communication across a 200+ delegate conference.
-
----
+**B.Tech, Computer Science & Systems Engineering** — KIIT University, Bhubaneswar (2022–2026) 
 
 ## Currently working on
-Preparing for an AI Agents & Automation hackathon in Bangalore — exploring high-impact builds like a voice negotiation agent and a self-healing workflow agent. Also building out a Customer Feedback Intelligence Agent in n8n as a PM-facing "listening layer" for product decisions.
+Building a Customer Feedback Intelligence Agent in n8n — a five-layer agentic workflow (ingestion → LLM classification → Google Sheets storage → digest generation → Slack alerting) designed as a PM-facing "listening layer" for product decisions. Built with deliberate architectural choices around classification accuracy and alerting thresholds.
 
 ---
 
