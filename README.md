@@ -1,9 +1,9 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2EA8E5&width=600&lines=Hi%2C+I'm+SauravKumar;AI+Engineer+%7C+Agentic+AI+%26+RAG;Building+real-world+AI+Agents)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2EA8E5&width=600&lines=Hi%2C+I'm+SauravKumar;AI+Engineer+%7C+Agentic+AI+%26+RAG+Pipelines;Building+real-world+AI+Agents)](https://git.io/typing-svg)
 
 
 **AI Engineer · Agentic AI & RAG Pipelines · Intelligent Automation · B.Tech CS Graduate, KIIT University**
 
-I build end-to-end AI systems — from RAG pipelines to voice agents to multi-step automation workflows. Built 3 production-grade AI applications using OpenAI, Gemini, Pinecone, and n8n — automating 50+ daily workflows and reducing manual effort by 60%. Experienced in multi-agent architectures, vector embeddings, and voice AI deployment.
+I build end-to-end AI systems from RAG pipelines to voice agents to multi-step automation workflows. Built 3 production-grade AI applications using OpenAI, Gemini, Pinecone, and n8n automating 50+ daily workflows and reducing manual effort by 60%. Experienced in multi-agent architectures, vector embeddings, and voice AI deployment.
 
 ---
 
@@ -15,11 +15,15 @@ I build end-to-end AI systems — from RAG pipelines to voice agents to multi-st
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
 
+`Prompt Engineering` `Function Calling` `Tool Calling` `Fine-tuning`
+
 **Agentic AI & RAG**
 
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
 ![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white)
+
+`Multi-agent Systems` `Autonomous Agents` `RAG Pipelines` `Vector Embeddings`
 
 **Automation & Voice AI**
 
@@ -28,21 +32,24 @@ I build end-to-end AI systems — from RAG pipelines to voice agents to multi-st
 ![ElevenLabs](https://img.shields.io/badge/ElevenLabs-000000?style=for-the-badge&logo=elevenlabs&logoColor=white)
 ![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white)
 
+`Workflow Automation` `MCP (Model Context Protocol)` `REST APIs` `Conversational AI` `Real-time Speech Synthesis`
+
 **Tools & Infra**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-
----
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 ## Projects
 
 ### 🗓️ [Smart Personal Assistant](https://github.com/SauravKum2603/Smart-Personal-Assistant)
-Autonomous AI assistant with tool calling via Telegram, managing emails, calendar scheduling, and information retrieval — eliminating 2+ hours of daily manual tasks. Integrated Gemini LLM with Gmail and Google Calendar APIs via n8n, enabling multi-turn conversations with persistent memory.
+Autonomous AI assistant with tool calling via Telegram, managing emails, calendar scheduling, and information retrieval eliminating 2+ hours of daily manual tasks. Integrated Gemini LLM with Gmail and Google Calendar APIs via n8n, enabling multi-turn conversations with persistent memory.
 
 | Metric | Value |
 |--------|-------|
