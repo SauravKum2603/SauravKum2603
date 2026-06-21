@@ -1,40 +1,84 @@
-### Building real-world AI Agents 🤖
+<div align="center">
 
-AI Engineer · Agentic AI & Automation · GenAI Engineer · B.Tech CS, KIIT University '26
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2EA8E5&center=true&vCenter=true&width=600&lines=Building+real-world+AI+Agents+%F0%9F%A4%96;Agentic+AI+%7C+RAG+Pipelines+%7C+Automation;Open+to+AI+Engineer+Roles)
 
-I build end-to-end AI systems — from RAG pipelines to voice agents to multi-step automation workflows. My focus is on **agentic AI**, **LLM orchestration**, and making AI actually useful in production, not just demos.
+</div>
+
+AI Engineer · Agentic AI & RAG Pipelines · Intelligent Automation · B.Tech CS, KIIT University '26
+
+I build end-to-end AI systems — from RAG pipelines to voice agents to multi-step automation workflows. Built 3 production-grade AI applications using OpenAI, Gemini, Pinecone, and n8n — automating 50+ daily workflows and reducing manual effort by 60%. Experienced in multi-agent architectures, vector embeddings, and voice AI deployment.
 
 Actively looking for AI Engineer / Agentic AI / GenAI Engineer roles. Open to relocation. Available immediately.
 
----
+📫 saurav.kum2603@gmail.com · [LinkedIn](https://www.linkedin.com/in/sauravkumar-)
+
+![Wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer)
 
 ### What I work with
 
-**LLMs & Agents**
+**AI & LLMs**
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 
-**Automation & Voice**
+**Agentic AI & RAG**
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white)
+
+**Automation & Voice AI**
 
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![Vapi](https://img.shields.io/badge/Vapi-000000?style=for-the-badge&logo=phone&logoColor=white)
 ![ElevenLabs](https://img.shields.io/badge/ElevenLabs-000000?style=for-the-badge&logo=elevenlabs&logoColor=white)
+![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white)
 
-**Data & Infra**
+**Tools & Infra**
 
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
 ---
 
 ### Featured Projects
 
-🎙️ **Smart Real-Time Voice Agent** — Vapi + Deepgram + GPT + ElevenLabs, sub-2s latency conversational agent
-🧠 **Customer Support Agent** — RAG pipeline w/ Pinecone, 40% hallucination reduction
-🗓️ **Smart Personal Assistant** — Gemini + n8n + Gmail/Calendar automation
+**🗓️ [Smart Personal Assistant](https://github.com/SauravKum2603/Smart-Personal-Assistant)** — `n8n · Gemini · Telegram · Google Workspace APIs`
+Autonomous assistant with tool calling via Telegram, managing emails, calendar scheduling, and info retrieval. Eliminated 2+ hrs of daily manual tasks; integrated Gemini with Gmail/Calendar APIs via n8n with persistent multi-turn memory across 5+ automated workflows, cutting task effort by 70%.
 
-📫 Reach me: [LinkedIn](#) · Portfolio
+**🧠 [Customer Support Agent with RAG](https://github.com/SauravKum2603/Customer-Support-Agent-with-RAG)** — `n8n · Gemini · Pinecone · Google Sheets`
+Multi-agent RAG pipeline using Pinecone vector DB and OpenAI embeddings — 40% lower hallucination rate vs. prompt-only baseline. Automated order processing, inventory updates, and policy queries via n8n, resolving 85%+ of queries without human escalation across 10+ categories.
+
+**🎙️ [Smart Real-Time Voice Agent](https://github.com/SauravKum2603/Smart-Real-Time-Voice-Agent)** — `VAPI · ElevenLabs · MCP · Zapier · LLMs`
+Autonomous voice agent with sub-2s response latency via VAPI + ElevenLabs TTS. Implemented MCP tool calling to connect 5+ external services for autonomous action execution; RAG over knowledge-base files reduced out-of-scope responses by 35%.
+
+---
+
+### Certifications
+
+- be10x — AI Tools & ChatGPT Workshop
+- be10x — Certified AI Foundations & Tools Specialist
+- be10x — Certified AI Product Development Professional
+- Google Cloud — Generative AI Fundamentals
+- DeepLearning.AI & OpenAI — ChatGPT Prompt Engineering for Developers
+
+---
+
+### Education
+
+**B.Tech, Computer Science & Systems Engineering** — KIIT University, Bhubaneswar (2022–2026) · CGPA 7.92
+
+---
+
+### GitHub Stats
+
+<div align="center">
+
+![Saurav's GitHub stats](https://github-readme-stats.vercel.app/api?username=SauravKum2603&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SauravKum2603&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
